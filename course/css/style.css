@@ -1,4 +1,12 @@
 main section,
 main aside {
     display: inline-block;
+    margin-bottom: fill;
+}
+main section article {
+    background-blend-mode: darken;
+}
+
+.container-fluid {
+    margin-bottom: 25px;
 }
